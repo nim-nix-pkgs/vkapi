@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-vkapi-master.flake = false;
+  inputs.src-vkapi-master.ref   = "refs/heads/master";
   inputs.src-vkapi-master.owner = "Yardanico";
-  inputs.src-vkapi-master.ref   = "master";
   inputs.src-vkapi-master.repo  = "nimvkapi";
   inputs.src-vkapi-master.type  = "github";
   
