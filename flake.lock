@@ -362,11 +362,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1668749137,
-        "narHash": "sha256-upo5KRdpt3Ls6XpeDnyzvI4z79Z8DnVkTpftKXNtO1g=",
+        "lastModified": 1668754900,
+        "narHash": "sha256-IWqLELpJApxAm79EniUMB9vbfVIIIWu50iSmYm3n2cE=",
         "owner": "nim-nix-pkgs",
         "repo": "vkapi",
-        "rev": "5a96ea615b20d15b0fc13f8cdffcfff627e44ec4",
+        "rev": "c2bc2da013177a4eedace801a8af1129677796e2",
         "type": "github"
       },
       "original": {
@@ -389,11 +389,11 @@
       },
       "locked": {
         "dir": "v0_1_0",
-        "lastModified": 1668749137,
-        "narHash": "sha256-upo5KRdpt3Ls6XpeDnyzvI4z79Z8DnVkTpftKXNtO1g=",
+        "lastModified": 1668754900,
+        "narHash": "sha256-IWqLELpJApxAm79EniUMB9vbfVIIIWu50iSmYm3n2cE=",
         "owner": "nim-nix-pkgs",
         "repo": "vkapi",
-        "rev": "5a96ea615b20d15b0fc13f8cdffcfff627e44ec4",
+        "rev": "c2bc2da013177a4eedace801a8af1129677796e2",
         "type": "github"
       },
       "original": {
@@ -416,11 +416,11 @@
       },
       "locked": {
         "dir": "v1_0_0",
-        "lastModified": 1668749137,
-        "narHash": "sha256-upo5KRdpt3Ls6XpeDnyzvI4z79Z8DnVkTpftKXNtO1g=",
+        "lastModified": 1668754900,
+        "narHash": "sha256-IWqLELpJApxAm79EniUMB9vbfVIIIWu50iSmYm3n2cE=",
         "owner": "nim-nix-pkgs",
         "repo": "vkapi",
-        "rev": "5a96ea615b20d15b0fc13f8cdffcfff627e44ec4",
+        "rev": "c2bc2da013177a4eedace801a8af1129677796e2",
         "type": "github"
       },
       "original": {
@@ -443,11 +443,11 @@
       },
       "locked": {
         "dir": "v1_1_0",
-        "lastModified": 1668749137,
-        "narHash": "sha256-upo5KRdpt3Ls6XpeDnyzvI4z79Z8DnVkTpftKXNtO1g=",
+        "lastModified": 1668754900,
+        "narHash": "sha256-IWqLELpJApxAm79EniUMB9vbfVIIIWu50iSmYm3n2cE=",
         "owner": "nim-nix-pkgs",
         "repo": "vkapi",
-        "rev": "5a96ea615b20d15b0fc13f8cdffcfff627e44ec4",
+        "rev": "c2bc2da013177a4eedace801a8af1129677796e2",
         "type": "github"
       },
       "original": {
@@ -470,11 +470,11 @@
       },
       "locked": {
         "dir": "v1_2_0",
-        "lastModified": 1668749137,
-        "narHash": "sha256-upo5KRdpt3Ls6XpeDnyzvI4z79Z8DnVkTpftKXNtO1g=",
+        "lastModified": 1668754900,
+        "narHash": "sha256-IWqLELpJApxAm79EniUMB9vbfVIIIWu50iSmYm3n2cE=",
         "owner": "nim-nix-pkgs",
         "repo": "vkapi",
-        "rev": "5a96ea615b20d15b0fc13f8cdffcfff627e44ec4",
+        "rev": "c2bc2da013177a4eedace801a8af1129677796e2",
         "type": "github"
       },
       "original": {
@@ -497,11 +497,11 @@
       },
       "locked": {
         "dir": "v1_2_1",
-        "lastModified": 1668749137,
-        "narHash": "sha256-upo5KRdpt3Ls6XpeDnyzvI4z79Z8DnVkTpftKXNtO1g=",
+        "lastModified": 1668754900,
+        "narHash": "sha256-IWqLELpJApxAm79EniUMB9vbfVIIIWu50iSmYm3n2cE=",
         "owner": "nim-nix-pkgs",
         "repo": "vkapi",
-        "rev": "5a96ea615b20d15b0fc13f8cdffcfff627e44ec4",
+        "rev": "c2bc2da013177a4eedace801a8af1129677796e2",
         "type": "github"
       },
       "original": {
@@ -524,11 +524,11 @@
       },
       "locked": {
         "dir": "v1_3_0",
-        "lastModified": 1668749137,
-        "narHash": "sha256-upo5KRdpt3Ls6XpeDnyzvI4z79Z8DnVkTpftKXNtO1g=",
+        "lastModified": 1668754900,
+        "narHash": "sha256-IWqLELpJApxAm79EniUMB9vbfVIIIWu50iSmYm3n2cE=",
         "owner": "nim-nix-pkgs",
         "repo": "vkapi",
-        "rev": "5a96ea615b20d15b0fc13f8cdffcfff627e44ec4",
+        "rev": "c2bc2da013177a4eedace801a8af1129677796e2",
         "type": "github"
       },
       "original": {
@@ -551,11 +551,11 @@
       },
       "locked": {
         "dir": "v1_3_1",
-        "lastModified": 1668749137,
-        "narHash": "sha256-upo5KRdpt3Ls6XpeDnyzvI4z79Z8DnVkTpftKXNtO1g=",
+        "lastModified": 1668754900,
+        "narHash": "sha256-IWqLELpJApxAm79EniUMB9vbfVIIIWu50iSmYm3n2cE=",
         "owner": "nim-nix-pkgs",
         "repo": "vkapi",
-        "rev": "5a96ea615b20d15b0fc13f8cdffcfff627e44ec4",
+        "rev": "c2bc2da013177a4eedace801a8af1129677796e2",
         "type": "github"
       },
       "original": {
